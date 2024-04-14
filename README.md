@@ -28,7 +28,6 @@ https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker
 
 ![Screenshot-1](./Images/Ink-Canvas-For-Annotation%20Screenshot.png)
 ![Screenshot-2](./Images/Ink-Canvas-For-Annotation%20Blackboard%20Screenshot.png)
-
 [直接下载](https://github.com/ChangSakura/Ink-Canvas/releases/latest "Latest Releases")
 ——该安装包使用 Inno Setup Compiler 打包，默认推荐设置适配希沃六代机的使用。
 
