@@ -14,6 +14,16 @@
 
 https://github.com/HelloWRC/ClassIsland
 
+### 希沃定制启动器
+自定义启动希沃白板5的视频 图片 文字 动效等，也可启动其他软件 思锐工作室出品
+
+![IMG_7068](https://github.com/jiangyin14/awesome-whiteboard/assets/106649516/c95a3045-c094-4610-bfc2-9ecbaaefd766)
+
+
+更新状态：暂缓更新，但QQ群聊仍提供技术支持
+
+https://github.com/SRInternet/Seewo-Custom_Start
+
 ### ZongziTEK 黑板贴
 课表+天气+时间+启动台+小黑板 万能软件
 
